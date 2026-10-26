@@ -1,0 +1,6 @@
+pymongo
+pandas
+matplotlib
+seaborn
+colorama
+tabulate
